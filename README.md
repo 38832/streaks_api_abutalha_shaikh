@@ -2,6 +2,9 @@
 
 A secure, concurrent RESTful backend for a habit-tracking app built with **Java 17**, **Spring Boot 3.2**, **Spring Security 6**, **Spring Data JPA**, **Flyway**, and **PostgreSQL** (with **H2** for in-memory testing).
 
+- **Live URL (Deployed on Railway)**: [https://streaks-api-production.up.railway.app](https://streaks-api-production.up.railway.app)
+- **GitHub Repository**: [https://github.com/38832/streaks_api_abutalha_shaikh](https://github.com/38832/streaks_api_abutalha_shaikh)
+
 ---
 
 ## Features
